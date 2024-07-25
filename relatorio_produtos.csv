@@ -1,0 +1,10 @@
+id,nome,preco,quantidade,vendido,estoque,categoria
+2,Queijo de Manteiga,25.0,20,16,4,Fresco - artesanal
+3,Queijo Coalho,38.0,18,5,13,Fresco - artesanal
+4,Queijo de Cachaça,15.0,20,20,0,Maturado - artesanal
+5,Queijo Temperado,18.0,25,5,20,Fresco - artesanal
+6,Queijo Apimentado,28.0,28,0,28,Fresco - artesanal
+7,Queijo com Orégano,35.0,35,35,0,Fresco - artesanal
+8,Queijo Muçarela,50.0,40,28,12,Fresco - artesanal
+9,Queijo Lua Nova,40.0,30,27,3,Maturado - artesanal
+10,Queijo do Reino,70.0,20,0,20,Maturado - artesanal
